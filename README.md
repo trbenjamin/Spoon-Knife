@@ -9,4 +9,5 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 
-Line added: -trb, Tue Jul 21 20:22:24 CDT 2015
+Line 1 added: -trb, Tue Jul 21 20:22:24 CDT 2015
+Line 2 added: -trb, Tue Jul 21 20:40:32 CDT 2015
